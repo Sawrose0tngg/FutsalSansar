@@ -1,0 +1,26 @@
+.site-footer div.col-sm-6{
+  text-align:center;
+  margin-left:315px;
+  padding-top: 0px;
+}
+
+@media (max-width:1199px) {
+  .site-footer div.col-sm-6{
+    margin-left:255px;
+    padding-top:7px;
+  }
+}
+
+@media (max-width:991px) {
+  .site-footer div.col-sm-6{
+    margin-left:200px;
+    padding-top:7px;
+  }
+}
+
+@media (max-width:767px) {
+  .site-footer div.col-sm-6{
+    margin-left:16px;
+    padding-top:9px;
+  }
+}

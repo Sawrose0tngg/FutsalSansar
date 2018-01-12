@@ -1,0 +1,22 @@
+div#contact{
+  margin-top:5%;
+  color:#fff;
+}
+
+div#contact.container-fluid.bg-grey{
+  background-color:#008b8b;
+  color:#fff;
+}
+
+h2 small{
+  color:#fff;
+}
+
+a{
+  color:#b4acac;
+}
+
+button.btn.btn-default.pull-right{
+  color:#008b8b;
+}
+

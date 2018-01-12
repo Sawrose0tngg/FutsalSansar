@@ -1,0 +1,24 @@
+div.col-sm-9, div.well{
+  text-align:center;
+}
+
+div.well h3{
+  margin-top:-9px;
+}
+
+div.col-sm-2.sidenav, div.col-sm-3.sidenav{
+  margin-top:60px;
+}
+
+div.row.content{
+  margin-top:6%;
+}
+
+div.row.content.col-sm-7{
+  background-color:rgb(215,210,210);
+}
+
+div.well{
+  border-radius:30px;
+}
+
